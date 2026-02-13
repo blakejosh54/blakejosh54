@@ -9,6 +9,7 @@ Junior Fullstack Developer | HTML • CSS • JavaScript • Bootstrap • React
 - 🎬 Netflix Landing Page Clone  (https://github.com/blakejosh54/Netflix-Landing-Page-Clone)
 - 🚗 Tesla Landing Page Replica  (https://github.com/blakejosh54/Tesla-Landing-Page)
 - 📺 YouTube UI Clone  (https://github.com/blakejosh54/youtube-clone)
+- 🐦 X/Twitter Clone (https://github.com/blakejosh54/twitter-clone)
 
 ### 📫 Contact
 - 🌐 Portfolio: https://blake54-portfolio.netlify.app
