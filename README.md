@@ -1,5 +1,5 @@
 ## Hi, I’m Blake 👋  
-Junior Fullstack Developer | HTML • CSS • JavaScript • Bootstrap • React
+Junior Fullstack Developer | HTML • CSS • JavaScript • Bootstrap • React • NodeJS
 
 🔧 I build clean, responsive web applications with a strong focus on UI and usability
 📍 Cape Town, South Africa  
